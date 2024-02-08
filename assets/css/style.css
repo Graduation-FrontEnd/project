@@ -97,4 +97,7 @@ nav {
 main header .container .contain{
     display: flex;
 }
+.contain .text .link  {
+    display: flex;
+}
  
