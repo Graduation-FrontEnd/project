@@ -94,5 +94,7 @@ nav {
   transform: rotate(180deg);
   margin: 14px 4px;
 }
-
+main header .container .contain{
+    display: flex;
+}
  
